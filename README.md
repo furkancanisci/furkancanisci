@@ -1,2 +1,2 @@
 Furkan Can İşci<br>
-web projects, object-oriented programming,uni student
+web projects, object-oriented programming.
